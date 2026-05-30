@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/hheydarian/the-psychology-of-money">
-    <img src="assets/image/Cover.jpg" alt="The Psychology of Money Book Cover" width="400"/>
+    <img src="assets/images/Cover.jpg" alt="The Psychology of Money Book Cover" width="400"/>
   </a>
 </p>
 
